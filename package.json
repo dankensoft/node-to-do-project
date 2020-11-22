@@ -1,0 +1,23 @@
+{
+  "name": "04-to-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dankensoft/node-to-do-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dankensoft/node-to-do-project/issues"
+  },
+  "homepage": "https://github.com/dankensoft/node-to-do-project#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.1.1"
+  }
+}
